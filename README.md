@@ -2,13 +2,13 @@
 <h3 align="center">A Computer Science Student at UW Madison.</h3>
 <h3 align="center">Software Engineer @ Extreme Engineering Solutions in Madison, WI</h3>
 
-- 🔭 I’m currently working on [Bowl Builder](https://github.com/cvillarr23/bowl-builder)
+- 🔭 I’m currently working on [Bowl Builder](https://github.com/cvillarr23/bowl-builder) and [SpiceRack](https://github.com/TheKitchenSinkDevs/SpiceRack)
 
 - 🌱 I’m currently learning **Fullstack Development, React, JavaScript**
 
 - 📫 How to reach me **cdvillarreal@wisc.edu**
 
-- ⚡ I'm highly interested in software related to: **Urban design and transportation, health and fitness.**
+- ⚡ I'm highly interested in software related to: **Urban design, transportation, health, and fitness.**
 
 
 <h3 align="left">Languages and Tools:</h3>
