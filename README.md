@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Conor Villarreal</h1>
-<h3 align="center">A Computer Science Student at UW Madison.</h3>
+<h3 align="center">Senior Computer Science Student at UW Madison.</h3>
 <h3 align="center">Software Engineer Intern @ Lyft</h3>
-
-- 🔭 I’m currently working on [Bowl Builder](https://github.com/cvillarr23/bowl-builder) and [SpiceRack](https://github.com/TheKitchenSinkDevs/SpiceRack)
-
-- 🌱 I’m currently learning **Fullstack Development, React, JavaScript**
 
 - 📫 How to reach me **cdvillarreal@wisc.edu**
 
