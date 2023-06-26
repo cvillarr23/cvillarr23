@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Conor Villarreal</h1>
 <h3 align="center">Senior Computer Science Student at UW Madison.</h3>
-<h3 align="center">Software Engineer Intern @ Lyft</h3>
+<h3 align="center">Software Engineer Intern @ LegalZoom</h3>
 
 - 📫 How to reach me **cdvillarreal@wisc.edu**
 
