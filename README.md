@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Conor Villarreal</h1>
-<h3 align="center">New Computer Science Graduate from Univeristy of Wisconsin - Madison</h3>
-<h3 align="center">Software Engineer Intern @ LegalZoom</h3>
-
-- 📫 How to reach me **cdvillarreal@wisc.edu**
+<h3 align="center">BS Computer Science - Univeristy of Wisconsin - Madison</h3>
+<h3 align="center">Software Engineer @ LegalZoom</h3>
 
 - ⚡ I'm highly interested in software related to: **Urban design, transportation, health, and fitness.**
 
